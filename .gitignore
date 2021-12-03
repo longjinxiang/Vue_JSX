@@ -1,0 +1,8 @@
+.log
+.DS_Store
+*debugmmp.sh
+.idea/
+*node_modules
+push.sh
+package-lock.json
+dist

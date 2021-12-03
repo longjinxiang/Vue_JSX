@@ -1,0 +1,4 @@
+//  创建配置文件 .babelrc，并配置
+{
+  "presets": ["@vue/babel-preset-jsx", "@babel/preset-env"]
+}
